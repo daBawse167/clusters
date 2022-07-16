@@ -1,0 +1,511 @@
+,name,popularity,artists,release_date,images,urls
+3131,Lady Lie,60,['Rainbow Kitten Surprise'],2015-04-25,https://i.scdn.co/image/ab67616d0000b2739e16f54ce1b5f9e1d8196ba3,https://open.spotify.com/track/50bmpfgcV29ouRVDfr5wOc
+3131,Sabır,41,['Göksel'],1997-05-01,https://i.scdn.co/image/ab67616d0000b273d37c38e813f2d150e6403638,https://open.spotify.com/track/5R82daRgh2ZgV5mvPFGa4f
+3131,Grits,50,['RZA'],2003-10-07,https://i.scdn.co/image/ab67616d0000b2731004f59a3b68598c67677b0e,https://open.spotify.com/track/00762tXbSj2w2bQMVydJZn
+3131,Karar Verdim,35,['Göksel'],2005-05-11,https://i.scdn.co/image/ab67616d0000b273c0aeb42f4b7aeb6cf754be49,https://open.spotify.com/track/6QfgCeeziwsyaBSBfbblQv
+3131,Arka Bahçemde,32,['Göksel'],2005-05-11,https://i.scdn.co/image/ab67616d0000b273c0aeb42f4b7aeb6cf754be49,https://open.spotify.com/track/5CkawU8VtrhxHEJVtVUYAZ
+3131,Rüzgar,52,['Göksel'],2012-01-09,https://i.scdn.co/image/ab67616d0000b273eb4534ca1227f529d3895fd1,https://open.spotify.com/track/2DSkWvRrPDHcQms1lGXE0M
+3131,Acıyor,49,['Göksel'],2012-01-09,https://i.scdn.co/image/ab67616d0000b273eb4534ca1227f529d3895fd1,https://open.spotify.com/track/6iS1JW0wYPk5ZrM3ZxULrI
+3131,Aşkın Yalanmış,46,['Göksel'],2012-01-09,https://i.scdn.co/image/ab67616d0000b273eb4534ca1227f529d3895fd1,https://open.spotify.com/track/09jOIuHj9xZMJxk0opiqRg
+3131,Gidemiyorum,46,['Göksel'],2012-01-09,https://i.scdn.co/image/ab67616d0000b273eb4534ca1227f529d3895fd1,https://open.spotify.com/track/1furwo55GZZ2zr6Oqaottb
+3131,Sen De Gittin,52,['Cansever'],2013,https://i.scdn.co/image/ab67616d0000b2735fd9cc17c55e85eb797d38d2,https://open.spotify.com/track/0K7aWZ3pilGwg6rGRWdQpX
+3131,Gittiğinde,46,['Göksel'],2015-01-05,https://i.scdn.co/image/ab67616d0000b273a36da4492a8056e96267055e,https://open.spotify.com/track/2QS0u6yVOGq0GBXJ1GtqUi
+3131,Kime Bu İnat,44,['Cansever'],2016-05-11,https://i.scdn.co/image/ab67616d0000b27397e23e5e8a1d53540ca600e0,https://open.spotify.com/track/4AMBGzvIQoWF9k5wd6tMDt
+3131,Hiç Yok,52,['Göksel'],2019-06-14,https://i.scdn.co/image/ab67616d0000b2738b9b47f0dc4e763909fb51d4,https://open.spotify.com/track/7cEAontLQyaDS9qLnNFipI
+3131,Geliyor havalı geliyor,52,"['Cansever', 'DJ Yılmaz', 'Kobra Murat']",2020-03-17,https://i.scdn.co/image/ab67616d0000b273f294dca922ff3625cb5cfb4e,https://open.spotify.com/track/0kuMUf2va8L39yjVWxPsqi
+3131,50 Tahun,42,['Warna'],2006-07-25,https://i.scdn.co/image/ab67616d0000b273fd2b40baa55ec210ebf97d9b,https://open.spotify.com/track/4ZQfQAwtnVbvmn5cgZkK0V
+3131,Enge Loesoe (feat. 3robi),49,"['JoeyAK', 'Drechter', '3robi']",2018-10-12,https://i.scdn.co/image/ab67616d0000b273765781b5ef6913b75f6ea5cc,https://open.spotify.com/track/36BqkgMwelAnF8EOWNQYkV
+3131,Luitenant,46,['JoeyAK'],2018-01-07,https://i.scdn.co/image/ab67616d0000b2735bc33550c4cd811ebbf5d079,https://open.spotify.com/track/19PdeYdr2jDaXGXvDm2MkI
+3131,Geen Hype,52,"['JoeyAK', 'Lil Kleine', 'Kevin']",2021-04-08,https://i.scdn.co/image/ab67616d0000b2734b48624e4528e0ceac188007,https://open.spotify.com/track/4gpIYaycFCdixCMUO8hoNK
+3131,Bodemboy,50,['JoeyAK'],2021-04-08,https://i.scdn.co/image/ab67616d0000b2734b48624e4528e0ceac188007,https://open.spotify.com/track/5GQ6DueidzkfHpjIuAVXKa
+3131,Zoveel Tegenslagen,46,"['JoeyAK', 'Henkie T']",2021-04-08,https://i.scdn.co/image/ab67616d0000b2734b48624e4528e0ceac188007,https://open.spotify.com/track/4MjAHAxzjHs0V8LvI3pedy
+3131,Manmohini Morey,32,['Vijay Prakash'],2008-11-21,https://i.scdn.co/image/ab67616d0000b273d609631bb29d1c9ee677f447,https://open.spotify.com/track/5ZAXP6V20tpAagjLTU9z72
+3131,Jilla Vittu,35,['Thanjai Selvi'],2010-11-19,https://i.scdn.co/image/ab67616d0000b2737a0f1df137de9645682a2b56,https://open.spotify.com/track/3X61lP4xN7OPiM9dwitXV5
+3131,Chirunavve Visirave,36,['Vijay Prakash'],2011-01-09,https://i.scdn.co/image/ab67616d0000b273dd52df7e80ee252241143d3f,https://open.spotify.com/track/3pQFOXZSkakIYkcVFQlK7J
+3131,Idhedho Bagundhe,48,"['Vijay Prakash', 'Anitha Karthikeyan']",2013-01-05,https://i.scdn.co/image/ab67616d0000b27373615189b81bfd6bba3f4dab,https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG
+3131,Nenjukulla Nee,44,"['Vijay Prakash', 'Diwakar', 'Ajesh']",2014-09-16,https://i.scdn.co/image/ab67616d0000b273ad479f565a60d4af1e7979e5,https://open.spotify.com/track/1VBkQidkoJXhQPJsAvSkNP
+3131,Come To The Party,41,['Vijay Prakash'],2015-03-15,https://i.scdn.co/image/ab67616d0000b27371cc7c112a85908f0192aa70,https://open.spotify.com/track/573LKvxZqtuD009eUcG1BR
+3131,Salaam Rocky Bhai,50,"['Vijay Prakash', 'Mohan Krishna', 'Santhosh Venky', 'Renjith Unni', 'Balraj Jagadeesh Kumar', 'Deepesh A K', 'H.S. Srinivasa Murthy', 'Vijay Aurs', 'Abhishek Chaithra Soman', 'Chethan Naik', 'Madhwesh Bharadwaj']",2018-12-26,https://i.scdn.co/image/ab67616d0000b2731a6d8342d05daf63cb360021,https://open.spotify.com/track/6kWYigBhkWT2EINUNNtYr4
+3131,Define,38,['Hilera'],2006,https://i.scdn.co/image/ab67616d0000b273a2e7d9b2a8de3698284c1659,https://open.spotify.com/track/1O1sgYGqEI6amm67FVsRmF
+3131,Mahirap Magmahal Ng Syota Ng Iba,35,['Hilera'],2012,https://i.scdn.co/image/ab67616d0000b2737ef514e1affe661f3a697b97,https://open.spotify.com/track/06dymA4JWKoS6lWzym34ap
+3131,Savantagligen,42,['Fronda'],2013-05-16,https://i.scdn.co/image/ab67616d0000b2730ce93935240519c537b6aa26,https://open.spotify.com/track/64q1FAUYE61OKpAwdssE7e
+3131,Zoveel Tegenslagen,58,"['JoeyAK', 'Henkie T']",2021-03-25,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,"Salaam Rocky Bhai (From ""Kgf Chapter 1"")",51,"['Vijay Prakash', 'Shri Krishna', 'Lokeshwar', 'Arun Kaundinya', 'Adithya Lyengar', 'Ganta Rithesh', 'Santhosh Venki', 'Mohan Krishna', 'H. Shreenivas Moorthi', 'Vijay Aurs', 'Ravi Basrur']",2018-12-04,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Amiri,45,"['JoeyAK', 'Trobi']",2021-04-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Geen Hype,70,"['JoeyAK', 'Lil Kleine', 'Kevin']",2021-03-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Poovasam,36,"['Vijay Prakash', 'Sadhana Sargam']",2003-01-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Define,36,['Hilera'],2006-10-31,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Depresyondayım,40,['Göksel'],2001-10-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Blender,54,"['JoeyAK', 'Lijpe']",2021-04-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Pilit,34,['Hilera'],2006-10-31,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Upp,46,['Fronda'],2013-05-16,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Lovin' Times,40,['Web'],2010-08-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3131,Karar Verdim,36,['Göksel'],2005-05-11,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Man Kyoon Behka Re Behka Aadhi Raat Ko,43,"['Laxmikant–Pyarelal', 'Lata Mangeshkar', 'Asha Bhosle']",1984-06-10,https://i.scdn.co/image/ab67616d0000b273e8eacd38c96ad7e89baa83ab,https://open.spotify.com/track/3ClX9Fv2i4mzRUhWUxkpod
+3132,That Joke Isn't Funny Anymore,52,['The Smiths'],1985-02-11,https://i.scdn.co/image/ab67616d0000b273ac345598e7697a319cb5b460,https://open.spotify.com/track/48veRDsAEBOJJnVnnabV99
+3132,Muchachita Consentida,71,['Rayito Colombiano'],1997-01-01,https://i.scdn.co/image/ab67616d0000b2739af40670550143304fc29d58,https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4
+3132,Besar Tu Piel,64,['Rayito Colombiano'],1997-01-01,https://i.scdn.co/image/ab67616d0000b2739af40670550143304fc29d58,https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N
+3132,Батарейка,53,['Zhuki'],1999-01-01,https://i.scdn.co/image/ab67616d0000b273ba6b8872fede85a4bbd668b2,https://open.spotify.com/track/4kU7KMitJ7o8yH6Ee706Jd
+3132,Chahun Main Ya Naa,61,"['Palak Muchhal', 'Arijit Singh']",2013-04-06,https://i.scdn.co/image/ab67616d0000b273348468c203278d510f0cbc5a,https://open.spotify.com/track/6UgcN95w7vQxkR8sEFmwHG
+3132,Cicatrices,45,['Rayito Colombiano'],1997-01-01,https://i.scdn.co/image/ab67616d0000b2739af40670550143304fc29d58,https://open.spotify.com/track/0D34DKZQTX9WOt1utpwq1y
+3132,She's So Nice,68,['Pink Guy'],2017-01-04,https://i.scdn.co/image/ab67616d0000b2731e8fd05e38f85c0a52bf017f,https://open.spotify.com/track/0Dfctnkk9xIikDKJ06uwzo
+3132,First Impression,41,['Shigeru Nagata'],1993,https://i.scdn.co/image/ab67616d0000b273f06ee8a01796bf1994df80dd,https://open.spotify.com/track/3iyINjITP40s8XrxAtn02W
+3132,祝我生日快樂,45,['Landy Wen'],2004-07-06,https://i.scdn.co/image/ab67616d0000b2734f66f923faed0d6c4a5574df,https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88
+3132,"Rubber Ring / What She Said - Live in London, 1986",33,['The Smiths'],1988-09-05,https://i.scdn.co/image/ab67616d0000b273a8daeaf94d82482223742b12,https://open.spotify.com/track/751Xh3pRWJvdpfaWXbSAtm
+3132,Country Bumpkin,46,['Cal Smith'],2000-01-01,https://i.scdn.co/image/ab67616d0000b2737055deb99e48d2d0f0afbe54,https://open.spotify.com/track/5TQ1qGqblpxBL0dVhLda2y
+3132,Un Sueño,51,['La Tropa Loca'],2010-01-01,https://i.scdn.co/image/ab67616d0000b27393eb59b817683e71f2c05848,https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1
+3132,På grunn av bagateller,32,['Steinar Engelbrektson Band'],2005,https://i.scdn.co/image/ab67616d0000b273a0ec1249f96309889ed7af76,https://open.spotify.com/track/04RfaoTdQpgRdi8wW0ueY9
+3132,Gücüm Yetene Kadar,48,['Sukriye Tutkun'],2005-01-01,https://i.scdn.co/image/ab67616d0000b27314e90edbaa03602d4d73dc2b,https://open.spotify.com/track/2eKhVxwtwZ7fgBeE4mfkU8
+3132,Bir Firtina Tuttu Bizi,34,['Sukriye Tutkun'],2005-01-01,https://i.scdn.co/image/ab67616d0000b27314e90edbaa03602d4d73dc2b,https://open.spotify.com/track/71DGqwEQBgVO7pYVQW4PZZ
+3132,A Mi Manera,45,['Rayito Colombiano'],2001-01-01,https://i.scdn.co/image/ab67616d0000b273936e8c1c38732dccfedd60ad,https://open.spotify.com/track/6Mw1mprYsUPAIFm0kIJnWN
+3132,Eisblumen - Radio Mix,43,['Eisblume'],2009-01-01,https://i.scdn.co/image/ab67616d0000b2732c95cd67edebf1bcf42e9d5a,https://open.spotify.com/track/33JC2dGmSJUj17sNtPgJOo
+3132,Chahunga Main Tujhe,33,"['Laxmikant–Pyarelal', 'Shabbir Kumar']",2000-09-15,https://i.scdn.co/image/ab67616d0000b2736f641d117591a6cf2c0d59ce,https://open.spotify.com/track/0VJFwKyA1Fd3P1PZ78Am7P
+3132,Prem Ratan Dhan Payo,44,['Palak Muchhal'],2015-10-10,https://i.scdn.co/image/ab67616d0000b273c67d681d2653981fb4257232,https://open.spotify.com/track/5HGXuAy0YA1GBRkAny0cvV
+3132,Kaun Tujhe,63,['Palak Muchhal'],2016-09-17,https://i.scdn.co/image/ab67616d0000b27302dde7bfff94df00c8b76eb4,https://open.spotify.com/track/5T2ZZiBMDGh3TZDUbxg4rV
+3132,Hummein Tummein Jo Tha,45,"['Palak Muchhal', 'Papon']",2016-08-19,https://i.scdn.co/image/ab67616d0000b273b23e886a98ffadfb00ac1428,https://open.spotify.com/track/6GLJZRXAb4GSE1TmQxZN6i
+3132,Jai Veeru,55,['Khasa Aala Chahar'],2020-09-19,https://i.scdn.co/image/ab67616d0000b2732f4b4774a990292a118c751e,https://open.spotify.com/track/0ec82rGwJ98A8ReINP9Rf1
+3132,Ramię W Ramię,53,"['Viki Gabor', 'Kayah']",2020-01-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Water Running Down Small Rocks in a Creek,45,['The Relaxing Sounds of Swedish Nature'],2016-04-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Melaza,48,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Je ne t'aime plus,36,['Taïro'],2009-01-19,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Leyenda Negra,31,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Foreign Land,41,['Eskimo Joe'],2009-05-29,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Interploración (Pacto Con las Ánimas),31,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Ser Hümano,41,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Prohibido,57,['Lele Blade'],2020-07-16,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Bonne Weed,58,['Taïro'],2011-02-28,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Sueños,47,['Tiro De Gracia'],2012-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,J'aime,39,['Riff Cohen'],2012-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Chupacabras,45,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Melaza - Remaster 2004,36,['Tiro De Gracia'],2004-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,El Juego Verdadero - 2004 - Remaster,42,['Tiro De Gracia'],2004-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Besame Besame,38,['Rayito Colombiano'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Ser Hümano N°2,35,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Cute (Stop Lah Being So Cute),48,"['Harith Zazman', 'MFMF.', 'LOCA B']",2020-06-19,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Selalu Ada,55,['Felix'],2019-12-19,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Elle veut,35,"['Taïro', 'Flya']",2008-07-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Check The Sound,32,['Tiro De Gracia'],2005,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Xde Hal Bro (feat. REZ),33,"['Caprice', 'Rez']",2014-08-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Viaje Sin Rumbo,45,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Sueños - Remaster 2004,37,['Tiro De Gracia'],2004-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Tag TDG,32,['Tiro De Gracia'],2003-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,A Paris,38,['Riff Cohen'],2012-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Yo Sin Ti,39,['Rayito Colombiano'],2005-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Dos Corazones,33,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,"Kaun Tujhe (From ""M.S.Dhoni - The Untold Story"")",54,['Palak Muchhal'],2016-12-30,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Une seule vie,55,['Taïro'],2011-02-28,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,「いちご白書」をもう一度,42,['Ban-Ban'],2007-06-20,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Chupacabras - Remaster 2004,37,['Tiro De Gracia'],2004-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,"Nuestra Fiesta (Okupa, Segura Y No Molesta)",38,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Joven De La Pobla,37,['Tiro De Gracia'],2005,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,El Último Beso,49,['Rayito Colombiano'],2001-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,หัวหิน - Huahin Loop,48,['Wanyai'],2019,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,El Juego Verdadero,56,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,The Space Between,37,['Joanna Brouk'],1981-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Loco,54,['Lele Blade'],2019-06-21,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Clavo Y Martilleo,33,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Bebedor,34,['Tiro De Gracia'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,Ey Guzel Kirim,33,['Sukriye Tutkun'],1997-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3132,A Girl's Thoughts,35,['Shigeru Nagata'],1993,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Il Cuore E' Uno Zingaro (El Corazon Es Un Gitano),51,['Nicola Di Bari'],1995-12-06,https://i.scdn.co/image/ab67616d0000b2735128c3465802d998fe82c0a2,https://open.spotify.com/track/5DRD6ORAoilGd5bTuzOG8D
+3133,Rock Your Body,78,['Justin Timberlake'],2002-11-04,https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee,https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT
+3133,Like I Love You,64,['Justin Timberlake'],2002-11-04,https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee,https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv
+3133,SexyBack (feat. Timbaland),81,"['Justin Timberlake', 'Timbaland']",2006-09-12,https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091,https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR
+3133,My Love (feat. T.I.),72,"['Justin Timberlake', 'T.I.']",2006-09-13,https://i.scdn.co/image/ab67616d0000b273c68f26a3d34fbd0faed2b473,https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL
+3133,Until The End Of Time (with Beyoncé),60,"['Justin Timberlake', 'Beyoncé']",2006-09-13,https://i.scdn.co/image/ab67616d0000b273c68f26a3d34fbd0faed2b473,https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ
+3133,LoveStoned / I Think She Knows (Interlude),58,['Justin Timberlake'],2006-09-12,https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091,https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy
+3133,Suit & Tie (feat. Jay-Z),69,"['Justin Timberlake', 'JAY-Z']",2013-03-15,https://i.scdn.co/image/ab67616d0000b273db1d1cdc927a07825a2ed244,https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5
+3133,Bugatti,65,"['Ace Hood', 'Future', 'Rick Ross']",2013-01-01,https://i.scdn.co/image/ab67616d0000b27398f22f2fe6b8b1b06ea5cd17,https://open.spotify.com/track/0uFvvXbmGIXlf5ZgtHyYpf
+3133,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",75,['Justin Timberlake'],2016-09-23,https://i.scdn.co/image/ab67616d0000b273d965d29d7dcf46ade5a8a7e4,https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI
+3133,O Aetos,46,['Notis Sfakianakis'],1994-03-26,https://i.scdn.co/image/ab67616d0000b273395784617d8a7ec75dcf8bd7,https://open.spotify.com/track/1So8Np2mdqFlAgrnKe5vCX
+3133,Soma Mou,46,['Notis Sfakianakis'],1996-03-30,https://i.scdn.co/image/ab67616d0000b2731067df072a1b5b24ea8811a8,https://open.spotify.com/track/2o1pnMGofzy2PuiYQE6nbV
+3133,Suit & Tie (feat. JAY Z) (feat. Jay-Z) - [Radio Edit],60,"['Justin Timberlake', 'JAY-Z']",2013-01-15,https://i.scdn.co/image/ab67616d0000b2738dc9d296e7d01f44d9d3f588,https://open.spotify.com/track/4mQVHEjrnuUd7G5IVhSYTk
+3133,Ga Niet Weg Van Mij (Se Kriazome),32,['Benny Neyman'],1987,https://i.scdn.co/image/ab67616d0000b273fbba5828ab133f08e3c4a0ac,https://open.spotify.com/track/3fXIZdcR1Ongjvljxcny57
+3133,Corazón Gitano,43,['Nicola Di Bari'],1997,https://i.scdn.co/image/ab67616d0000b273baeb8e3ded9fc5672696b2b3,https://open.spotify.com/track/2Romw11EoDzDpg9lvRejU1
+3133,El Corazón Es un Gitano,33,['Nicola Di Bari'],1998-06-30,https://i.scdn.co/image/ab67616d0000b273df2c20d6b624570b31bdfc7a,https://open.spotify.com/track/0FDMYhgD2I16HKW7TK0UPq
+3133,O Stratos,35,['Notis Sfakianakis'],1996-03-30,https://i.scdn.co/image/ab67616d0000b2731067df072a1b5b24ea8811a8,https://open.spotify.com/track/0Y0ovjAfdvVrh6rYSzyZQy
+3133,Mipos Ime Trellos,36,['Notis Sfakianakis'],1998-02-19,https://i.scdn.co/image/ab67616d0000b273489007b15a157d0d1dcdd541,https://open.spotify.com/track/0NeOUT0Un92m8MsQ3ZDCAZ
+3133,Genethlia,43,['Notis Sfakianakis'],2004,https://i.scdn.co/image/ab67616d0000b27302745b84945e3a953e87e616,https://open.spotify.com/track/42YK02oEElM1jpg0xrFTZP
+3133,Ma Ego Eimai Ellinas,36,['Notis Sfakianakis'],2014-11-20,https://i.scdn.co/image/ab67616d0000b2733e3025d4db720a933a2f0940,https://open.spotify.com/track/04Sy352Si03UvB4r1pL62w
+3133,FutureSex / LoveSound,51,['Justin Timberlake'],2006-09-12,https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091,https://open.spotify.com/track/0B1QILlvPWfc9vovFYuUuk
+3133,Diário do Caipira,32,['Zé Mulato & Cassiano'],1999,https://i.scdn.co/image/ab67616d0000b2734fd698fa11f76ff7992c1b92,https://open.spotify.com/track/0SjVgC2BC1K2OJEhfEYZzu
+3133,Et maintenant (Version 1966) - Remasterisé en 2011,42,['Gilbert Bécaud'],2013-12-02,https://i.scdn.co/image/ab67616d0000b2730dbe70357ed1c6e503bc9c67,https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk
+3133,Kate Winslet (feat. Unknown T),61,"['NSG', 'Unknown T']",2020-11-19,https://i.scdn.co/image/ab67616d0000b2737c617395114c9ab342e57d5d,https://open.spotify.com/track/1QPIsbNZiuDv9NBjvkZYNU
+3133,SpongeBob SquarePants Theme - Movie Version,46,['The Pirates'],2004-11-09,https://i.scdn.co/image/ab67616d0000b27337dcc623f72b6d492f56f675,https://open.spotify.com/track/0IJJsPtoNnYJSMXbqlCkuy
+3133,rower (trailer),50,['chillwagon'],2019-04-12,https://i.scdn.co/image/ab67616d0000b2731b46373946030ef37c0af5d8,https://open.spotify.com/track/7K4efixHjgvPgnk0skHhC3
+3133,squo,51,['chillwagon'],2020-09-11,https://i.scdn.co/image/ab67616d0000b2731a07d9d055c96c49dae9217c,https://open.spotify.com/track/4fniSGNKIv7MNbSAzF3CBD
+3133,david hustlehoff,51,['chillwagon'],2020-11-05,https://i.scdn.co/image/ab67616d0000b273c19b48c683a8b11f8f0986f4,https://open.spotify.com/track/7GFxray2pxG2i4UM7kn0Xx
+3133,zbastuj bajerke,49,['chillwagon'],2020-11-17,https://i.scdn.co/image/ab67616d0000b273fde03cb873bfcc4f789e3ae5,https://open.spotify.com/track/5y87pvHL11MRSGgVmnzrGM
+3133,Serendipity,50,"['lewloh', 'Julia Gartha']",2019-08-30,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Who's Got You Singing Again,57,['PREP'],2016-09-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Bonita,57,['Kenia OS'],2018-12-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Vagabondo,38,['Nicola Di Bari'],2000-06-15,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Futures,48,['PREP'],2016-10-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Das Feyr vo dr Sehnsucht - Radio Version,39,"['Francine Jordi', 'Jodlerklub Wiesenberg']",2008-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,jeden jeden,58,['chillwagon'],2020-12-03,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Options,64,"['NSG', 'Tion Wayne']",2018-11-30,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Me Dolió,64,"['Kenia OS', 'Alan Jacques', 'Kid Gallo', 'Amador']",2021-02-19,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Yarım Kalanlara Rağmen,31,['Zeynep Sağdaş'],2009-05-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,jeden jeden,53,['chillwagon'],2020-12-22,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Ma Ego Eimai Ellinas,39,['Notis Sfakianakis'],2014-11-25,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,SexyBack (feat. Timbaland),58,"['Justin Timberlake', 'Timbaland']",2006-09-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,@ (trailer),59,['chillwagon'],2019-06-17,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,CAN'T STOP THE FEELING! - Film Version,64,"['Justin Timberlake', 'Anna Kendrick', 'Gwen Stefani', 'James Corden', 'Zooey Deschanel', 'Ron Funches', 'Caroline Hjelt', 'Aino Jawo', 'Christopher Mintz-Plasse', 'Kunal Nayyar']",2016-09-23,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Kara Bize Ait,32,"['Meyra', 'Burak Kut']",2011-03-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Rosa,37,['Nicola Di Bari'],1997,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,jumper,52,['chillwagon'],2020-12-22,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,LoveStoned / I Think She Knows Interlude,50,['Justin Timberlake'],2006-09-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Zebrall,41,['Lektral'],2021-02-16,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",78,['Justin Timberlake'],2016-05-06,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Genethlia,33,['Notis Sfakianakis'],2004-05-06,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,jumper,58,['chillwagon'],2020-08-21,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Until the End of Time,50,"['Justin Timberlake', 'The Benjamin Wright Orchestra']",2006-09-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3133,Ola Ta S' Agapo,31,"['Notis Sfakianakis', 'Giorgos Papagiannopoulos']",2014,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Hard To Say I'm Sorry (feat. Peter Cetera),50,"['Az Yet', 'Peter Cetera']",1996-10-27,https://i.scdn.co/image/ab67616d0000b273ec9ff4f5e6ed7e67ce672b46,https://open.spotify.com/track/2OWzR8QoH7KaLtiN65v32x
+3134,Cuídate,65,['La Oreja de Van Gogh'],2000-09-07,https://i.scdn.co/image/ab67616d0000b273fb01108d92974ffab07a05fb,https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD
+3134,Rosas,63,['La Oreja de Van Gogh'],2004-05-10,https://i.scdn.co/image/ab67616d0000b2730f1c7d18178dc43bbb8fb634,https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u
+3134,Dulce Locura,59,['La Oreja de Van Gogh'],2007-04-09,https://i.scdn.co/image/ab67616d0000b2738f1b20a025eae96fbe15cda3,https://open.spotify.com/track/1I3O8YESvj6G6TqHaJTvEU
+3134,Deseos de Cosas Imposibles (with Abel Pintos) - Directo Primera Fila,64,"['La Oreja de Van Gogh', 'Abel Pintos']",2013-10-28,https://i.scdn.co/image/ab67616d0000b273fd536ef5bcef30482fe9265e,https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA
+3134,The Way You Look at Me,65,['Christian Bautista'],2004-03-25,https://i.scdn.co/image/ab67616d0000b273e3d6c82a3d9f6380a8b7eb33,https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC
+3134,Inmortal,56,['La Oreja de Van Gogh'],2008-09-30,https://i.scdn.co/image/ab67616d0000b273a3442f8f6b9306bda1f6110b,https://open.spotify.com/track/1YyTA0ysYP9F3ry6lqOJB4
+3134,El Ultimo Vals,53,['La Oreja de Van Gogh'],2008-09-30,https://i.scdn.co/image/ab67616d0000b273a3442f8f6b9306bda1f6110b,https://open.spotify.com/track/4uofaK0hnyZQFDAepvPNl6
+3134,20 de Enero,50,['La Oreja de Van Gogh'],2009-10-20,https://i.scdn.co/image/ab67616d0000b27344d5e426ded3a6d717ba592d,https://open.spotify.com/track/7D5B7YPbAjQ373oXL37ZZW
+3134,Jesucristo basta,61,['Un Corazón'],2017-06-23,https://i.scdn.co/image/ab67616d0000b2732bc7a6a7776eb0e25616917f,https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd
+3134,Jesucristo Basta (Ver. Acústica) feat. Living,60,"['Un Corazón', 'Living']",2018-05-02,https://i.scdn.co/image/ab67616d0000b2730ae96181b4afbad8403a3ffb,https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH
+3134,I Changed My Mind,41,"['Quannum Projects', 'Lyrics Born', 'The Maroons', 'Joyo Velarde', 'Erinn Anova', 'The Poets Of Rhythm', 'Divine Styler', 'El-P', 'Jurassic 5']",1999-01-01,https://i.scdn.co/image/ab67616d0000b27356f11fdd6a7f5bbf7a136390,https://open.spotify.com/track/2Fj81XOWDMAgsWbp5CUkSL
+3134,Till My Heartaches End,53,['Ella May Saison'],2006-04-05,https://i.scdn.co/image/ab67616d0000b273f5170f7b7e5a33334333eeae,https://open.spotify.com/track/42c971Ayhalr9X7rTqPLz8
+3134,Puedes Contar Conmigo,50,['La Oreja de Van Gogh'],2004-05-10,https://i.scdn.co/image/ab67616d0000b2730f1c7d18178dc43bbb8fb634,https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK
+3134,Голая,49,['Gradusy'],2011-01-01,https://i.scdn.co/image/ab67616d0000b273b1af389c4c7d569bf0b415a2,https://open.spotify.com/track/2Mr9SgjTX5MVAEBNhrpr9r
+3134,Dios de imposibles,49,['Un Corazón'],2018-06-29,https://i.scdn.co/image/ab67616d0000b27341ca096f79d06cffbcf9a781,https://open.spotify.com/track/2861feuxE4gYSq2VI8OLyC
+3134,She Don't Dance,61,['Everyone You Know'],2019-07-19,https://i.scdn.co/image/ab67616d0000b2733602a31515fd6263e84d53f2,https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy
+3134,María (with Natalia Lafourcade) - Directo Primera Fila,53,"['La Oreja de Van Gogh', 'Natalia Lafourcade']",2013-10-28,https://i.scdn.co/image/ab67616d0000b273fd536ef5bcef30482fe9265e,https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK
+3134,Mi Vida Sin Ti (with Samo) - Directo Primera Fila,51,"['La Oreja de Van Gogh', 'Samo']",2013-10-28,https://i.scdn.co/image/ab67616d0000b273fd536ef5bcef30482fe9265e,https://open.spotify.com/track/3Gu9Y2otruceMTsIpOBzvs
+3134,Rosas - Directo Primera Fila,50,['La Oreja de Van Gogh'],2013-10-28,https://i.scdn.co/image/ab67616d0000b273fd536ef5bcef30482fe9265e,https://open.spotify.com/track/4Evx9DFFSCMJnUevhy4w7a
+3134,Moonlight Over Paris,44,['Peter Mayer'],1999-01-01,https://i.scdn.co/image/ab67616d0000b2735a398403db05cfd9c408c111,https://open.spotify.com/track/5sKZky0QHbyzl5jRX7NeMI
+3134,Colour Everywhere,48,['Christian Bautista'],2004-03-25,https://i.scdn.co/image/ab67616d0000b273e3d6c82a3d9f6380a8b7eb33,https://open.spotify.com/track/3RYpfzRDiCTPESz7yBLT0e
+3134,Since I Found You,53,['Christian Bautista'],2005-12-15,https://i.scdn.co/image/ab67616d0000b273b27328eb99ea9ed41c4d0994,https://open.spotify.com/track/3mLz6KdTO8pcVp5znx9m5G
+3134,The Way You Look at Me,50,['Christian Bautista'],2006-08-15,https://i.scdn.co/image/ab67616d0000b27379df4d7f1cbfeeee14855fd0,https://open.spotify.com/track/3yreqlK3NJ9UiEuz7K5vH6
+3134,The Way You Look at Me - Acoustic,53,['Christian Bautista'],2005-10-01,https://i.scdn.co/image/ab67616d0000b2734d10a547809caf8491657728,https://open.spotify.com/track/6RPNUxo91l5dqElLq06eiX
+3134,Ring My Bell,51,['Suzy'],2016-07-01,https://i.scdn.co/image/ab67616d0000b273c0ca511d68b8a8c35ea66d92,https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk
+3134,La Chica del Gorro Azul,43,['La Oreja de Van Gogh'],2000-09-07,https://i.scdn.co/image/ab67616d0000b273fb01108d92974ffab07a05fb,https://open.spotify.com/track/3MtGBLot4sqvpT0cDyWTC8
+3134,Desde el Puerto,40,['La Oreja de Van Gogh'],2000-09-07,https://i.scdn.co/image/ab67616d0000b273fb01108d92974ffab07a05fb,https://open.spotify.com/track/0sgDW5WQmaiOMBmlxrFHo3
+3134,Un Cuento Sobre el Agua,45,['La Oreja de Van Gogh'],2008-09-30,https://i.scdn.co/image/ab67616d0000b273a3442f8f6b9306bda1f6110b,https://open.spotify.com/track/4xsW3R7goSsNzKabPHgyxX
+3134,Durante una Mirada,60,['La Oreja de Van Gogh'],2020-09-18,https://i.scdn.co/image/ab67616d0000b2736a0573c1da3b5777ac46873c,https://open.spotify.com/track/4tqBQD2QG0IYLU08rpkU6X
+3134,Pedalinho,32,['Bia Bedran'],1997,https://i.scdn.co/image/ab67616d0000b273a8a2c8646dde3a6bb0fbd5eb,https://open.spotify.com/track/1bll5rhE4R82ojAkr1ytTZ
+3134,No Rastro da Gadaria,38,['Jairo Lambari Fernandes'],2001-01-01,https://i.scdn.co/image/ab67616d0000b2738078fdae446298d6148674a4,https://open.spotify.com/track/6nueitofcHKMRFMYuHR636
+3134,Apatis,37,['Ipang'],2009-11-20,https://i.scdn.co/image/ab67616d0000b2731c6b5d698cc7b5438b79153f,https://open.spotify.com/track/085XJ2PD9xuWNntgEsph4V
+3134,Sentuh Hatiku,41,['Jason'],2010-03-20,https://i.scdn.co/image/ab67616d0000b2735ca4e8fdef0f0ef3ee95c7c9,https://open.spotify.com/track/56Nw5JHJba4AGrA8YQnYlE
+3134,Colour Everywhere,35,['Christian Bautista'],2005-10-01,https://i.scdn.co/image/ab67616d0000b2734d10a547809caf8491657728,https://open.spotify.com/track/1elGoEQkt2g8jmbOyt0nsd
+3134,Till My Heartaches End,40,['Ella May Saison'],2005-08-02,https://i.scdn.co/image/ab67616d0000b273e0d28cd9c8e58cbd089e72f0,https://open.spotify.com/track/7yLg3pNzTLIoMTcXpySetu
+3134,If The Feeling Is Gone,40,['Ella May Saison'],2006-10-27,https://i.scdn.co/image/ab67616d0000b27331d749c716a13ba889cfe458,https://open.spotify.com/track/6gVVjJ4MRHlXGM3uw6qFQG
+3134,Hands to Heaven,39,['Christian Bautista'],2004-03-25,https://i.scdn.co/image/ab67616d0000b273e3d6c82a3d9f6380a8b7eb33,https://open.spotify.com/track/1gFCY09PA7I1iupBZhNMO6
+3134,Kailan Pa Ma'y Ikaw,31,['Christian Bautista'],2004-03-25,https://i.scdn.co/image/ab67616d0000b273e3d6c82a3d9f6380a8b7eb33,https://open.spotify.com/track/2lE79fAX33WnWjdE7ZfGlE
+3134,Captured (feat. Sitti),39,"['Christian Bautista', 'Sitti']",2008-06-15,https://i.scdn.co/image/ab67616d0000b273820ee8844d60f41df07cb0f8,https://open.spotify.com/track/6l4guW1WiBBN8Se7YaI9YV
+3134,Sponsored By Destiny,35,['Slagsmålsklubben'],2007-04-06,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Shiva,49,"['Inkyz', 'M.I.M.E']",2017-04-30,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,La Niña Que Llora en Tus Fiestas,52,['La Oreja de Van Gogh'],2011-09-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,La Estrella y la Luna,34,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Noche,45,['La Oreja de Van Gogh'],2007-04-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Опиаты Круг,46,['Платина'],2019-10-28,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Feeling Good,48,['The Sheepdogs'],2012-09-04,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Un Mundo Mejor,49,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Cometas por el Cielo,53,['La Oreja de Van Gogh'],2011-09-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Perdóname,43,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Dile al Sol,38,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Puedes Contar Conmigo,63,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Enganchados (RadioEdit),32,['Mas y Mas de Bolivia'],2018-01-03,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Que Puedo Pedir,34,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,La Esperanza Debida,44,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,The Way You Look At Me,38,['Christian Bautista'],2012,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Pesadilla,34,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Enganchados #2,32,['Mas y Mas de Bolivia'],2018-01-03,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Everything You Do,34,['Christian Bautista'],2005-12-15,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Pop,54,['La Oreja de Van Gogh'],2000-09-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Soledad,54,['La Oreja de Van Gogh'],2000-09-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Cuentame al Oido,46,['La Oreja de Van Gogh'],2009-10-06,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Viejo Cuento,32,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,20 de Enero,58,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,El 28,51,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Bonustrack,42,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Soñaré,40,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Rosas,75,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Nadie Como Tú,55,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Paris,60,['La Oreja de Van Gogh'],2000-09-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,In Love With You,56,"['Christian Bautista', 'Angeline Quinto']",2012,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Verano,52,['La Oreja de Van Gogh'],2016-11-04,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,I Love You Boy,60,['Suzy'],2017-10-11,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Adios,45,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Jose Cuervo,53,['Shelly West'],1983-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Llore por ti,35,['Mas y Mas de Bolivia'],2018-01-03,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Dicen Que Dicen,43,['La Oreja de Van Gogh'],2000-09-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Deseos de Cosas Imposibles,56,['La Oreja de Van Gogh'],2003,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Санта Клаус,57,['Платина'],2019-10-28,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,El Libro,33,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Miło Było Pana Poznać,44,['Mery Spolsky'],2017-06-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3134,Cuéntame al Oido,49,['La Oreja de Van Gogh'],1998-05-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Let's Move To The Country,51,['Smog'],1999-12-01,https://i.scdn.co/image/ab67616d0000b273ebce314abaac49d9acd15745,https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7
+3135,Aamani,40,['S. P. Balasubrahmanyam'],1989-05-10,https://i.scdn.co/image/ab67616d0000b2731ca45e18adb7edbb0c476765,https://open.spotify.com/track/1HzAAVypMW8z30OMtEpWgt
+3135,Premaledani,33,['S. P. Balasubrahmanyam'],1987-09-19,https://i.scdn.co/image/ab67616d0000b2732c6bc74772f3ae7bfb581eaa,https://open.spotify.com/track/2hOK2XtpwdKB1BUByTpVVE
+3135,Kottaga,36,"['S. P. Balasubrahmanyam', 'S. Janaki']",1988-07-15,https://i.scdn.co/image/ab67616d0000b273622ee1c0ea5ad9e4ba862c3f,https://open.spotify.com/track/1nOtmIRHIveE7ErdIAQgDD
+3135,Taralirada,34,['S. P. Balasubrahmanyam'],1988-03-04,https://i.scdn.co/image/ab67616d0000b273a54d2e2f70b58b1283a7f814,https://open.spotify.com/track/26jPNqAa9h0XdxJCikzlKJ
+3135,Nammaku Nammaku,34,['S. P. Balasubrahmanyam'],1988-03-04,https://i.scdn.co/image/ab67616d0000b273a54d2e2f70b58b1283a7f814,https://open.spotify.com/track/45483onRC0I8brePPNMbg9
+3135,Tella Cheeraku,31,"['S. P. Balasubrahmanyam', 'Lata Mangeshkar']",1988-01-05,https://i.scdn.co/image/ab67616d0000b2734ba7d17cfbfdb49ea37d0205,https://open.spotify.com/track/4kFWnmg8m3F5sWCsLZbxad
+3135,Vanajallu Gillutunte,31,"['S. P. Balasubrahmanyam', 'S. Janaki']",1988-04-29,https://i.scdn.co/image/ab67616d0000b27315eff437db8e3098ec959008,https://open.spotify.com/track/4H4JsCZFVJMyXcRIx5HBCw
+3135,Priyathama,32,"['S. P. Balasubrahmanyam', 'K. S. Chithra']",1989-03-18,https://i.scdn.co/image/ab67616d0000b273d0a3d25ab6924423fb66306c,https://open.spotify.com/track/3vKNxOfRIwaDH9AQGGA2EF
+3135,Enniyalo,32,"['S. P. Balasubrahmanyam', 'K. S. Chithra']",1989-07-09,https://i.scdn.co/image/ab67616d0000b27319c5de7f2afe08135a07565a,https://open.spotify.com/track/7jWWiwVIlNHXmdfMQnudQa
+3135,Mate Rani,40,['S. P. Balasubrahmanyam'],1990-08-26,https://i.scdn.co/image/ab67616d0000b273e3409c3ea876e9d4ef8e64bb,https://open.spotify.com/track/6wNOBns27jTxzjf6n9mQIP
+3135,ช่างไม่รู้เลย,38,['ตั๊ม สมประสงค์'],1990-06-05,https://i.scdn.co/image/ab67616d0000b273cbeddda64e909b9e99b04bcd,https://open.spotify.com/track/1gAEA0q6OApLFa4JwsPyz7
+3135,Kar Beyaz,43,['Kerim Tekin'],1997-07-10,https://i.scdn.co/image/ab67616d0000b2738e0c10211f91eed319f51190,https://open.spotify.com/track/6OGuq2rRBGJYYRNq3Vo0aU
+3135,Piel Canela,54,['Natalia y La Forquetina'],2005,https://i.scdn.co/image/ab67616d0000b273a7024cecd0318047350768c7,https://open.spotify.com/track/2VU7JmgBMjfGEdeppoYVEe
+3135,Violeta,51,['Alcides'],2007-09-01,https://i.scdn.co/image/ab67616d0000b2735c2424e5f348122b198980e7,https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I
+3135,"Fortellig: God Natt, Albert",31,['Gunilla Bergström'],2000-10-11,https://i.scdn.co/image/ab67616d0000b273ba5bbb86e59c4cb540434e91,https://open.spotify.com/track/5NvORHx55F1lRKDeQx1d5N
+3135,"Fortelling: Du Er for Liten, Albert - II",31,['Gunilla Bergström'],2000-10-11,https://i.scdn.co/image/ab67616d0000b273ba5bbb86e59c4cb540434e91,https://open.spotify.com/track/2qwdVIKzGAefm9sR4c6YM7
+3135,When I Was A Youngster,55,['Rizzle Kicks'],2011-01-01,https://i.scdn.co/image/ab67616d0000b273ae451c89ef63aa41005eded0,https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu
+3135,Matarani,37,"['S. P. Balasubrahmanyam', 'S. Janaki']",2001-01-01,https://i.scdn.co/image/ab67616d0000b273186b228e27b792cead85e32b,https://open.spotify.com/track/0SH7vJfD2JNahbBHKVqEF4
+3135,Sumam Pratisumam,33,"['S. P. Balasubrahmanyam', 'S. Janaki']",2001-01-01,https://i.scdn.co/image/ab67616d0000b273186b228e27b792cead85e32b,https://open.spotify.com/track/1bELhJ2xNXfIeSZP3l85AJ
+3135,O Priiyatama,33,['S. P. Balasubrahmanyam'],2001-08-06,https://i.scdn.co/image/ab67616d0000b2734d7c1b1500f401be95333d1a,https://open.spotify.com/track/4PvIdfXGVx7KQIdD0WSl4L
+3135,Vakrathunda Mahakaya,31,['S. P. Balasubrahmanyam'],2001-05-09,https://i.scdn.co/image/ab67616d0000b273fa44f2423704313be7990a2b,https://open.spotify.com/track/58GrjiNa1jhmOL0ZWRbNBB
+3135,Devuda Devuda,33,['S. P. Balasubrahmanyam'],2005-03-15,https://i.scdn.co/image/ab67616d0000b273019159668f307033ef142241,https://open.spotify.com/track/26h1g7jOlc67PLlDoG9XVH
+3135,Ilamai Ennum Poonkaatru,39,['S. P. Balasubrahmanyam'],1979-12-31,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Rhinestone Cowboy,55,"['Madvillain', 'Madlib', 'MF DOOM']",2004-03-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Neerabittu Nelada Mele,31,['S. P. Balasubrahmanyam'],1978-01-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Nalam Vazha,32,['S. P. Balasubrahmanyam'],1993,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Ade Neevu,34,['S. P. Balasubrahmanyam'],1987-09-19,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Tere Mere Beech Mein - Spbalasubramaniam,33,['S. P. Balasubrahmanyam'],1981-05-06,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Malli Malli,37,"['S. P. Balasubrahmanyam', 'S. Janaki']",1986-10-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Violeta,41,['Alcides'],2015-09-11,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,桜,38,['Kyogo Kawaguchi'],2003-12-10,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Enna Maanamulla Ponnu,32,['S. P. Balasubrahmanyam'],1992-11-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Ennavendru Solvadamma,39,['S. P. Balasubrahmanyam'],1994-01-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Manakkum Malligai,33,"['S. P. Balasubrahmanyam', 'S. Janaki']",1992-01-15,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Theendai Mei Theendai,35,['S. P. Balasubrahmanyam'],1999-02-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Illamai Etho Ehto,34,"['S. P. Balasubrahmanyam', 'S. Janaki']",1982-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Nenjukkule Innarendru,36,"['S. P. Balasubrahmanyam', 'S. Janaki']",1993,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,桜,47,['Kyogo Kawaguchi'],2003-12-10,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Vanamellam Senbagappu,31,['S. P. Balasubrahmanyam'],1992-09-16,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Nalam Vazha,39,['S. P. Balasubrahmanyam'],1993-01-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Oh Ranga Srilanka,32,['S. P. Balasubrahmanyam'],1992-04-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Nenjukulle,33,"['S. P. Balasubrahmanyam', 'S. Janaki']",1993-04-16,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Bandeya Baalina,31,"['S. P. Balasubrahmanyam', 'S. Janaki']",1980-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Adukku Malli,35,"['S. P. Balasubrahmanyam', 'S. Janaki']",1992-06-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3135,Blanket,36,"['Urban Species', 'Imogen Heap']",1998-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,Sewentien,32,['Dewald Wasserfall'],2012-07-28,https://i.scdn.co/image/ab67616d0000b273b519c0587d0d9bb0825224eb,https://open.spotify.com/track/2WFmxNWIfSfOfDjwbNj5iJ
+3136,Todavia,75,['La Factoria'],2019-09-06,https://i.scdn.co/image/ab67616d0000b273a576c6a122301f65b13e32eb,https://open.spotify.com/track/3D5uEBD0cAEGZGUo5j9045
+3136,Teus Planos,54,['Juninho Cassimiro'],2013-05-17,https://i.scdn.co/image/ab67616d0000b2735ae2aee71e8ed281181df7a4,https://open.spotify.com/track/2AQMmOpEGlu0qtK5RUOFyb
+3136,Misafir Bekler,41,['Yaşlı Amca'],2015-07-24,https://i.scdn.co/image/ab67616d0000b273f4fcc2c2619854d8a718b449,https://open.spotify.com/track/6H6MBc5oFW9KMjQ1HMcjPO
+3136,Kleiner Cabrón,61,['Veysel'],2017-11-03,https://i.scdn.co/image/ab67616d0000b2735e69e3452890872a29cefe0e,https://open.spotify.com/track/44x9yNoB69sjlC1plLsGuL
+3136,Tedd A Napfényt Be A Számba,31,['Anima Sound System'],2010-01-01,https://i.scdn.co/image/ab67616d0000b2730bc11dfc6ffefa2fbbee7a13,https://open.spotify.com/track/0g1vrRuhuq27AjvUeGUHuQ
+3136,Giderdi Hoşuma,65,['Yaşlı Amca'],2017-09-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,Jung verdammt,47,['Lo & Leduc'],2014-04-11,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,Kediler ve Şarkılar,53,['Yaşlı Amca'],2017-09-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,079,57,['Lo & Leduc'],2018-02-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,'68,37,['Anima Sound System'],1997-09-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,Chileli vo Wasse,39,['Lo & Leduc'],2018-02-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,Pluto (feat. James Gruntz),33,"['Lo & Leduc', 'James Gruntz']",2014-04-11,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,XY&Z,39,['サトシ(CV:松本梨香)'],2015-12-10,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,UFF,57,"['Veysel', 'Gzuz']",2018-09-21,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,Todavia,43,['La Factoria'],2019-10-25,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,İstanbul Beyefendisi,58,['Yaşlı Amca'],2017-09-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3136,Yakuza,52,"['Veysel', 'Luciano']",2017-11-03,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Ojalá que llueva café,56,['Café Tacvba'],1996-10-25,https://i.scdn.co/image/ab67616d0000b27344fc111787f221cf5629a2b9,https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA
+3137,"Money, Power & Respect (feat. DMX & Lil' Kim)",62,"['The LOX', 'DMX', ""Lil' Kim""]",1998-01-13,https://i.scdn.co/image/ab67616d0000b273a76a236552d8b904868933a3,https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9
+3137,Tão Bem,60,['Lulu Santos'],2000-12-02,https://i.scdn.co/image/ab67616d0000b2735245d513567fe12a726e60d4,https://open.spotify.com/track/5MjHgDtqDaHkttdqOxs4aj
+3137,"Go Loko (feat. Tyga, Jon Z)",73,"['YG', 'Tyga', 'Jon Z']",2019-05-24,https://i.scdn.co/image/ab67616d0000b273c47a4334e09516587959e7ef,https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD
+3137,Why You Always Hatin?,53,"['YG', 'Drake', 'Kamaiyah']",2016-06-17,https://i.scdn.co/image/ab67616d0000b273f731c8017e36b13e252bd2c6,https://open.spotify.com/track/4ezAjoV01phDz1SqO6SzEU
+3137,Twist My Fingaz,46,['YG'],2016-06-17,https://i.scdn.co/image/ab67616d0000b273f731c8017e36b13e252bd2c6,https://open.spotify.com/track/0evVIHGlp94jOUMvoQZRVD
+3137,Jangan Pernah Berubah,53,['ST12'],2008-06-28,https://i.scdn.co/image/ab67616d0000b273abc4bed15afde0c6b159580a,https://open.spotify.com/track/1oVEttWIOMh2bHHbmzLL4O
+3137,Pez,38,['Café Tacvba'],1994-07-20,https://i.scdn.co/image/ab67616d0000b2733b9211139eb247b12f6ba6c5,https://open.spotify.com/track/4V3t4iEteKRPYF87LJPr6s
+3137,Cesaretin Var mı Aşka,54,['Gülay Sezer'],2004-11-24,https://i.scdn.co/image/ab67616d0000b273592aa0f4960225a614d4deaa,https://open.spotify.com/track/1YuJ5pSMqUFwSYcB6T41Ux
+3137,Balada astral (Com Inês Viterbo),39,"['Miguel Araújo', 'Inês Viterbo']",2014-04-21,https://i.scdn.co/image/ab67616d0000b273f89c79f0b5b351edee01d8c9,https://open.spotify.com/track/4DEyBpSxPLV2DEUdErP6BT
+3137,Recantiga,32,['Miguel Araújo'],2014-04-21,https://i.scdn.co/image/ab67616d0000b273f89c79f0b5b351edee01d8c9,https://open.spotify.com/track/27CaP9PUZOqcfSvNZXyqVB
+3137,สายซับ - Ost. One Year 365 วัน บ้านฉัน บ้านเธอ,42,['BNK48'],2019-12-12,https://i.scdn.co/image/ab67616d0000b27361ee5baaa44b30436842c393,https://open.spotify.com/track/5UpKMuECD77JdbbeXGa8K7
+3137,Ellerini Çekip Benden,31,['Gülay Sezer'],2000-12-22,https://i.scdn.co/image/ab67616d0000b27368ba19c0c498e738b8638a08,https://open.spotify.com/track/1kFX4WLlhrBxtVR7wANn8U
+3137,Geceler Düşman,34,['Gülay Sezer'],2004-11-24,https://i.scdn.co/image/ab67616d0000b273592aa0f4960225a614d4deaa,https://open.spotify.com/track/18FQ56V71M4rrUbuV9Mqry
+3137,Zor (Akustik),48,['Nova Norda'],2019-05-24,https://i.scdn.co/image/ab67616d0000b273e7c834414378d35ab9e50396,https://open.spotify.com/track/7f0pQaAztOlxUUk4LgQFyf
+3137,Bakma Bana Öyle,55,['Nova Norda'],2020-12-18,https://i.scdn.co/image/ab67616d0000b273368756313b13558db9a233b8,https://open.spotify.com/track/7nuZOgJIhn18VYbpafmFMC
+3137,Tudo Bem,41,['Lulu Santos'],2000-12-02,https://i.scdn.co/image/ab67616d0000b2735245d513567fe12a726e60d4,https://open.spotify.com/track/3NuYcGFwCUEzPsdd6FVEaB
+3137,Condição,39,['Lulu Santos'],2000-12-02,https://i.scdn.co/image/ab67616d0000b2735245d513567fe12a726e60d4,https://open.spotify.com/track/1P2NHWlQ7LYFYZnyzZFOOl
+3137,ATSL,38,['ST12'],2006-04-12,https://i.scdn.co/image/ab67616d0000b273bdd075380562e1a8ff8647f1,https://open.spotify.com/track/2YbJyV4pyevgD8eSUQwHP6
+3137,Sirna Sudah,32,['ST12'],2006-04-12,https://i.scdn.co/image/ab67616d0000b273bdd075380562e1a8ff8647f1,https://open.spotify.com/track/3ZPMD2vA2DBRY8T08NCVPl
+3137,Jangan Pernah Berubah,32,['ST12'],2009-07-15,https://i.scdn.co/image/ab67616d0000b2731df75d568ca8f23b424bf55b,https://open.spotify.com/track/5h9iLjz456rAjL2Fp06emR
+3137,"Ryde Or Die, B****",50,"['The LOX', 'Drag-On', 'Eve']",2000-01-01,https://i.scdn.co/image/ab67616d0000b273c3c5d21ac3d06387e01fa695,https://open.spotify.com/track/28TaYSTqNY96c2oyUyAwwg
+3137,Toot It And Boot It,59,['YG'],2010-01-01,https://i.scdn.co/image/ab67616d0000b27370fbdc9191bace769ae0a0a5,https://open.spotify.com/track/3AqcBOSlJF7xMgvLpQoa3c
+3137,No Me Abandones,45,['Los Avila'],2013-07-05,https://i.scdn.co/image/ab67616d0000b27376dacac956820ccf2954107e,https://open.spotify.com/track/7CveBArX9h3N6njKXX9jbX
+3137,A nie pamiętasz jak?,62,"['SB Maffija', 'Mata', 'White 2115', 'Jan-Rapowanie', 'Janusz Walczuk', 'Kacperczyk', 'Beteo']",2020-09-18,https://i.scdn.co/image/ab67616d0000b273a082141b9265295b99c58a48,https://open.spotify.com/track/2fuA2bAFbVidQUdCiLjuG7
+3137,A nie pamiętasz jak?,50,"['SB Maffija', 'Mata', 'White 2115', 'Jan-Rapowanie', 'Janusz Walczuk', 'Kacperczyk', 'Beteo', 'Adi Nowak']",2020-06-04,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Brisa,39,['Brea Music'],2020-08-21,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Aviso aos Navegantes,38,['Lulu Santos'],2000-12-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Todo Lo Encuentro En Ti,60,"['Super Lamas', 'Raymix']",2019-08-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Tudo Bem,42,['Lulu Santos'],1993-10-16,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Heal My Soul,37,['Tanana'],2021-04-03,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Armonía,37,['Brea Music'],2020-08-21,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,El punal y el corazón - Unplugged,34,['Café Tacvba'],1996,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Perfect Day,37,['Povo'],2008-04-04,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Why You Always Hatin?,61,"['YG', 'Drake', 'Kamaiyah']",2016-06-17,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Sábado à Noite,33,['Lulu Santos'],1999-06-15,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Te Amo,38,['Los Avila'],2000-04-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Two4half,42,['dajto'],2020-10-16,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Yo Quiero Chupar,60,"['Super Lamas', 'Banda Los Recoditos']",2019-08-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Biarkan Jatuh Cinta,41,['ST12'],2009-07-15,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Verde,36,['Café Tacvba'],1994-07-20,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Certas Coisas,43,['Lulu Santos'],2000-12-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Cheope,32,['Vallanzaska'],2004-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3137,Música de Spa,55,['Sueño Profundo Club'],2018-03-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Ei tippa tapa,45,['Irwin Goodman'],1966,https://i.scdn.co/image/ab67616d0000b27370373f2a15cf99e24a6a8e89,https://open.spotify.com/track/1wgqBBWG0jzAyh8CvLyjgd
+3138,Sinner,37,['Judas Priest'],1977-11-15,https://i.scdn.co/image/ab67616d0000b273d05908f25aa68cae852a54f2,https://open.spotify.com/track/57pRygIJ53NexIGPvURmZo
+3138,Beyond the Realms of Death,57,['Judas Priest'],1978-10-27,https://i.scdn.co/image/ab67616d0000b273a4c79ec8f98d1866d266f5af,https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm
+3138,Breaking the Law,71,['Judas Priest'],1980,https://i.scdn.co/image/ab67616d0000b273be0e5ebab8c61469b1ff9f62,https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT
+3138,The Rage,39,['Judas Priest'],1980,https://i.scdn.co/image/ab67616d0000b273be0e5ebab8c61469b1ff9f62,https://open.spotify.com/track/0Pawjj5J6FltwqbfSjsvyp
+3138,Hot Rockin',40,['Judas Priest'],1981,https://i.scdn.co/image/ab67616d0000b273397a50d3dede88554925c717,https://open.spotify.com/track/3Rd4UGMRy3WWY9rcSvpvlG
+3138,Riding on the Wind,41,['Judas Priest'],1982,https://i.scdn.co/image/ab67616d0000b273a79a10cea4a05ade064a397b,https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O
+3138,The Sentinel,50,['Judas Priest'],1984,https://i.scdn.co/image/ab67616d0000b273bc22adfbb796489be45491d2,https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2
+3138,Johnny B. Goode,48,['Judas Priest'],1988-05-03,https://i.scdn.co/image/ab67616d0000b2731870e57bcd78041d8c3cd202,https://open.spotify.com/track/307B0j257d72HTyAiohF8N
+3138,Rentun ruusu,44,['Irwin Goodman'],1988,https://i.scdn.co/image/ab67616d0000b2731da1555c3d02f97080ae9f55,https://open.spotify.com/track/4ieWnZxkolHTJcintQuCj5
+3138,Leather Rebel,48,['Judas Priest'],1990-09-26,https://i.scdn.co/image/ab67616d0000b27360db4ca924d17bc6754e89aa,https://open.spotify.com/track/7jKqBoo7SCSQnYd8xRW6AV
+3138,Between the Hammer & the Anvil,44,['Judas Priest'],1990-09-26,https://i.scdn.co/image/ab67616d0000b27360db4ca924d17bc6754e89aa,https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU
+3138,Mutakuono ja lakupelle,37,['Irwin Goodman'],1989,https://i.scdn.co/image/ab67616d0000b27317ed17039e14546fb0788b91,https://open.spotify.com/track/57jaCnov8ilIHKkNihWZd4
+3138,Estrellita Dónde Estás,59,['Estrellita Dónde Estás'],2017-03-20,https://i.scdn.co/image/ab67616d0000b2737fcb01bc0fa0dc239c0421de,https://open.spotify.com/track/63bJKmMT90LlkOew3IZs3U
+3138,Raw Deal,31,['Judas Priest'],1977-11-15,https://i.scdn.co/image/ab67616d0000b273d05908f25aa68cae852a54f2,https://open.spotify.com/track/2QagWuAL61R8DLydEte3tw
+3138,"White Heat, Red Hot",34,['Judas Priest'],1978-10-27,https://i.scdn.co/image/ab67616d0000b273a4c79ec8f98d1866d266f5af,https://open.spotify.com/track/3fIibHAv2jMvwOnFdyoVUm
+3138,Invader,32,['Judas Priest'],1978-10-27,https://i.scdn.co/image/ab67616d0000b273a4c79ec8f98d1866d266f5af,https://open.spotify.com/track/1G4Tl43gz30UBIxa3eXDMN
+3138,Hard as Iron,33,['Judas Priest'],1988-05-03,https://i.scdn.co/image/ab67616d0000b2731870e57bcd78041d8c3cd202,https://open.spotify.com/track/0VoXBKCjBj8zTaj962mKxq
+3138,Leather Rebel - Live,34,['Judas Priest'],1990-09-26,https://i.scdn.co/image/ab67616d0000b27360db4ca924d17bc6754e89aa,https://open.spotify.com/track/4VBEZADb1bOkwpVEsagu8I
+3138,Mukhda Dekh Ke,40,['Surjit Bindrakhia'],1999-08-05,https://i.scdn.co/image/ab67616d0000b273b4b295bedd6404f1763ee1f8,https://open.spotify.com/track/3R0ZOZCNxtawIAJ9Qxe7XT
+3138,The Ripper - Live,33,['Judas Priest'],1979-05-06,https://i.scdn.co/image/ab67616d0000b27391f65116e9b9cbd943dfef84,https://open.spotify.com/track/1jJrPzuzUaX8cBKRRv2Oz4
+3138,Dupatta Tera Sat Rang Da,31,['Surjit Bindrakhia'],1996-01-01,https://i.scdn.co/image/ab67616d0000b273d852b52407dc99103421f588,https://open.spotify.com/track/4U5Bf9kil25BlZIKq9iBcs
+3138,Kırılsın Ellerim,31,['Muazzez Ersoy'],1997,https://i.scdn.co/image/ab67616d0000b273a976fc2a0343681f1bb28d5b,https://open.spotify.com/track/0ZYWsqx3KGlFT3ALqdZDbQ
+3138,Duydum Ki Unutmuşsun,39,['Muazzez Ersoy'],1999,https://i.scdn.co/image/ab67616d0000b27366ec5bd6cd6a40ae2fb9b5da,https://open.spotify.com/track/5BizbkkUYdeCkCCerDWQ2G
+3138,Hell Bent for Leather,40,['Judas Priest'],1979,https://i.scdn.co/image/ab67616d0000b273f3409ed8d1b3413abb147bb8,https://open.spotify.com/track/5hflg0cgTYWiwtPFoDx4g7
+3138,Delivering the Goods,35,['Judas Priest'],1979,https://i.scdn.co/image/ab67616d0000b273f3409ed8d1b3413abb147bb8,https://open.spotify.com/track/1LbYZlpxU27igbMVllzv7l
+3138,Jatt Di Pasand,42,['Surjit Bindrakhia'],2001-10-22,https://i.scdn.co/image/ab67616d0000b2731687cfa239dc48909b947e7b,https://open.spotify.com/track/5rXw7gGsE45poRok7CREVG
+3138,Dupatta Tera Sat Rang Da,32,['Surjit Bindrakhia'],2006-01-01,https://i.scdn.co/image/ab67616d0000b2732832cff8acb2736727265a22,https://open.spotify.com/track/51s2AkU0NbEALKD9m2y0qg
+3138,Flickan och kråkan,33,['Sofia Karlsson'],2007,https://i.scdn.co/image/ab67616d0000b273af81be5dc521d547169b4395,https://open.spotify.com/track/1DEgm55fV8iP8XVpUCp6q9
+3138,Hell Bent for Leather,45,['Judas Priest'],1979,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Pain and Pleasure,34,['Judas Priest'],1982,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Turbo Lover,53,['Judas Priest'],1997-09-29,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Riding on the Wind,38,['Judas Priest'],1982,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Senza fine,52,['Gino Paoli'],2001-01-25,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Delivering the Goods,40,['Judas Priest'],1979,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,The Hellion / Electric Eye,40,['Judas Priest'],1997-09-29,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Running Wild,31,['Judas Priest'],1979,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,I'm Not Your Puppet,39,['Hi-C'],1991,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Real,37,['Plumb'],2003-03-25,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Che cosa c'è,46,['Gino Paoli'],2001-01-25,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Love Don't Bother Me - 2000 Digital Remaster,33,['Sanne Salomonsen'],2012-10-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Sen Affetsen Ben Affetmem,40,"['Fairuz Derin Bulut', 'Ali Tekintüre']",2010-09-10,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Den lille løgn,37,['Sanne Salomonsen'],1996,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Hjem,50,['Sanne Salomonsen'],2011-11-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3138,Take on the World,37,['Judas Priest'],1979,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,065 - Diamantenschmuggel - Teil 02,36,['Die drei ???'],1995-12-04,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,065 - Diamantenschmuggel - Teil 30,36,['Die drei ???'],1995-12-04,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,064 - Geisterstadt - Teil 24,36,['Die drei ???'],1995-08-29,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,060 - Dopingmixer - Teil 40,35,['Die drei ???'],1994-08-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,049 - und die Comic-Diebe - Teil 24,36,['Die drei ???'],1990-11-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,039 - und die Perlenvögel - Teil 32,35,['Die drei ???'],1986-03-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,051 - und der riskante Ritt - Teil 34,35,['Die drei ???'],1991-03-20,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,044 - und der gestohlene Preis - Teil 12,34,['Die drei ???'],1988-10-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,045 - und das Gold der Wikinger - Teil 26,35,['Die drei ???'],1989-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,051 - und der riskante Ritt - Teil 26,35,['Die drei ???'],1991-03-20,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,051 - und der riskante Ritt - Teil 25,35,['Die drei ???'],1991-03-20,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,054 - Gefahr im Verzug - Teil 23,35,['Die drei ???'],1992-02-17,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,068 - und der Schatz im Bergsee - Teil 24,34,['Die drei ???'],1996-04-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,049 - und die Comic-Diebe - Teil 29,36,['Die drei ???'],1990-11-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,075 - Die Spur des Raben - Teil 39,35,['Die drei ???'],1997-07-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,054 - Gefahr im Verzug - Teil 30,35,['Die drei ???'],1992-02-17,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,055 - Gekaufte Spieler - Teil 04,42,['Die drei ???'],1992-02-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,060 - Dopingmixer - Teil 23,36,['Die drei ???'],1994-08-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,045 - und das Gold der Wikinger - Teil 25,35,['Die drei ???'],1989-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,052 - und die Musikpiraten - Teil 16,35,['Die drei ???'],1991-07-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,064 - Geisterstadt - Teil 14,37,['Die drei ???'],1995-08-29,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,Die drei ??? 47 - und der giftige Gockel - Teil 27,36,['Die drei ???'],1989-11-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,055 - Gekaufte Spieler - Teil 40,41,['Die drei ???'],1992-02-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,063 - Fußballgangster - Teil 18,34,['Die drei ???'],1995-08-28,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,073 - Poltergeist - Teil 37,36,['Die drei ???'],1997-02-10,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,046 - und der schrullige Millionär - Teil 15,36,['Die drei ???'],1989-04-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,Die drei ??? 47 - und der giftige Gockel - Teil 32,36,['Die drei ???'],1989-11-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,053 - und die Automafia - Teil 29,36,['Die drei ???'],1991-07-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,Die drei ??? 47 - und der giftige Gockel - Teil 35,36,['Die drei ???'],1989-11-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,056 - Angriff der Computer-Viren - Teil 03,35,['Die drei ???'],1992-09-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,072 - Dreckiger Deal - Teil 31,35,['Die drei ???'],1996-10-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,083 - Meuterei auf hoher See - Teil 03,36,['Die drei ???'],1999-02-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,084 - Musik des Teufels - Teil 22,35,['Die drei ???'],1999-02-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,086 - Nacht in Angst - Teil 11,36,['Die drei ???'],1999-08-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,Die drei ??? 47 - und der giftige Gockel - Teil 22,36,['Die drei ???'],1989-11-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,041 - und das Volk der Winde - Teil 02,35,['Die drei ???'],1987-09-17,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,044 - und der gestohlene Preis - Teil 26,34,['Die drei ???'],1988-10-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,071 - Die verschwundene Seglerin - Teil 30,35,['Die drei ???'],1996-10-07,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,Die drei ??? 47 - und der giftige Gockel - Teil 12,36,['Die drei ???'],1989-11-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,055 - Gekaufte Spieler - Teil 06,42,['Die drei ???'],1992-02-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,073 - Poltergeist - Teil 38,35,['Die drei ???'],1997-02-10,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,072 - Dreckiger Deal - Teil 04,35,['Die drei ???'],1996-10-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,078 - Das leere Grab - Teil 27,34,['Die drei ???'],1998-01-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,056 - Angriff der Computer-Viren - Teil 12,35,['Die drei ???'],1992-09-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,053 - und die Automafia - Teil 40,35,['Die drei ???'],1991-07-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,074 - und das brennende Schwert - Teil 17,36,['Die drei ???'],1997-02-11,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,058 - und der verrückte Maler - Teil 10,37,['Die drei ???'],1994-07-19,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,053 - und die Automafia - Teil 15,36,['Die drei ???'],1991-07-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,043 - und der höllische Werwolf - Teil 32,35,['Die drei ???'],1988-10-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,066 - und die Schattenmänner - Teil 28,35,['Die drei ???'],1995-12-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,058 - und der verrückte Maler - Teil 38,36,['Die drei ???'],1994-07-19,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,072 - Dreckiger Deal - Teil 17,35,['Die drei ???'],1996-10-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,060 - Dopingmixer - Teil 25,36,['Die drei ???'],1994-08-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,039 - und die Perlenvögel - Teil 13,36,['Die drei ???'],1986-03-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,045 - und das Gold der Wikinger - Teil 17,35,['Die drei ???'],1989-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,045 - und das Gold der Wikinger - Teil 14,35,['Die drei ???'],1989-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,049 - und die Comic-Diebe - Teil 02,36,['Die drei ???'],1990-11-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,046 - und der schrullige Millionär - Teil 28,36,['Die drei ???'],1989-04-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,051 - und der riskante Ritt - Teil 01,35,['Die drei ???'],1991-03-20,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,045 - und das Gold der Wikinger - Teil 09,35,['Die drei ???'],1989-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,069 - Späte Rache - Teil 11,36,['Die drei ???'],1996-08-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,070 - Schüsse aus dem Dunkel - Teil 30,35,['Die drei ???'],1996-08-06,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,052 - und die Musikpiraten - Teil 40,34,['Die drei ???'],1991-07-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,084 - Musik des Teufels - Teil 16,35,['Die drei ???'],1999-02-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,053 - und die Automafia - Teil 35,35,['Die drei ???'],1991-07-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,066 - und die Schattenmänner - Teil 12,35,['Die drei ???'],1995-12-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,049 - und die Comic-Diebe - Teil 12,36,['Die drei ???'],1990-11-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,048 - und die gefährlichen Fässer - Teil 08,36,['Die drei ???'],1989-11-25,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,073 - Poltergeist - Teil 19,36,['Die drei ???'],1997-02-10,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,043 - und der höllische Werwolf - Teil 23,35,['Die drei ???'],1988-10-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,057 - Tatort Zirkus - Teil 37,34,['Die drei ???'],1994-07-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,078 - Das leere Grab - Teil 17,35,['Die drei ???'],1998-01-12,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,075 - Die Spur des Raben - Teil 15,36,['Die drei ???'],1997-07-14,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,066 - und die Schattenmänner - Teil 19,35,['Die drei ???'],1995-12-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,055 - Gekaufte Spieler - Teil 02,41,['Die drei ???'],1992-02-18,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,051 - und der riskante Ritt - Teil 16,35,['Die drei ???'],1991-03-20,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,Die drei ??? 47 - und der giftige Gockel - Teil 05,36,['Die drei ???'],1989-11-24,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,042 - und der weinende Sarg - Teil 38,35,['Die drei ???'],1987-10-26,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,054 - Gefahr im Verzug - Teil 36,34,['Die drei ???'],1992-02-17,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,069 - Späte Rache - Teil 27,36,['Die drei ???'],1996-08-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,045 - und das Gold der Wikinger - Teil 40,35,['Die drei ???'],1989-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,053 - und die Automafia - Teil 30,36,['Die drei ???'],1991-07-13,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,074 - und das brennende Schwert - Teil 32,35,['Die drei ???'],1997-02-11,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,072 - Dreckiger Deal - Teil 27,35,['Die drei ???'],1996-10-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,066 - und die Schattenmänner - Teil 14,35,['Die drei ???'],1995-12-05,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,076 - Stimmen aus dem Nichts - Teil 17,35,['Die drei ???'],1997-09-08,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3139,070 - Schüsse aus dem Dunkel - Teil 35,35,['Die drei ???'],1996-08-06,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,Itsy Bitsy Strandbikini (Radio Version),32,['Buddy'],1960,https://i.scdn.co/image/ab67616d0000b273630f3704fc0833e8cd0b70a7,https://open.spotify.com/track/1b2935WUrUHKRmqAARVezV
+3140,Toad,38,['Cream'],1966-12-09,https://i.scdn.co/image/ab67616d0000b27393a3bb62961a598ecaad1f75,https://open.spotify.com/track/11RuqNiPXDGjRvu8cw2TPO
+3140,N.S.U.,38,['Cream'],1966-12-09,https://i.scdn.co/image/ab67616d0000b27393a3bb62961a598ecaad1f75,https://open.spotify.com/track/7AAR1uYiqJ3z7aDi8KboqK
+3140,It's Just Gotta Be That Way,34,['Bobby Angelle'],1967-11-04,https://i.scdn.co/image/ab67616d0000b2730457e7ee5151593c665692b8,https://open.spotify.com/track/1RZGghXMoQy2QaU1vUpodj
+3140,Crossroads - Live,59,['Cream'],1968-07-01,https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee,https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7
+3140,Sitting On Top Of The World,44,['Cream'],1968-07-01,https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee,https://open.spotify.com/track/0aY5bJ4jRHiOd8eCMWmcy8
+3140,Those Were The Days,38,['Cream'],1968-07-01,https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee,https://open.spotify.com/track/5iagU6Cu2OWCahju7T4iDL
+3140,Passing The Time,36,['Cream'],1968-07-01,https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee,https://open.spotify.com/track/7wxd5oR50LKSTtqqJQxYSX
+3140,Deserted Cities Of The Heart,35,['Cream'],1968-07-01,https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee,https://open.spotify.com/track/5YYgdRGxr41WEV4C0qvzCI
+3140,Spoonful - Live,34,['Cream'],1968-07-01,https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee,https://open.spotify.com/track/7AVWo6sgu8PPF61WQrZtYF
+3140,Pressed Rat And Warthog,33,['Cream'],1968-07-01,https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee,https://open.spotify.com/track/20JyPoNRMR68kKp9IQUlZ6
+3140,Fantastic Voyage,52,['Lakeside'],1980-01-01,https://i.scdn.co/image/ab67616d0000b27355c971eb15767f6940fb3c67,https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF
+3140,Sweet Wine,31,['Cream'],1966-12-09,https://i.scdn.co/image/ab67616d0000b27393a3bb62961a598ecaad1f75,https://open.spotify.com/track/3nIlHQIJAyBtUfialns8tk
+3140,It's All the Way Live,32,['Lakeside'],1978-01-01,https://i.scdn.co/image/ab67616d0000b273efbb4b44baed97a0232960c3,https://open.spotify.com/track/1DZAA9ewOieiw2a45JV6zZ
+3140,אינך יכולה,40,['The High Windows'],1967-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,Dance The Night Away,37,['Cream'],1967-11-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,זמר נוגה,36,['The High Windows'],1967-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,Don't Take My Sunshine,31,['The Soul Children'],1972-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,כל השבוע לך,32,['The High Windows'],1967-04-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,Outside Woman Blues,36,['Cream'],1967-11-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,SWLABR,38,['Cream'],1967-11-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,I'm So Glad,39,['Cream'],1966-12-09,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,Sunshine Of Your Love,70,['Cream'],1967-11-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,We're Going Wrong,36,['Cream'],1967-11-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,Take It Back,35,['Cream'],1967-11-02,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
+3140,I'll Be The Other Woman,33,['The Soul Children'],1979-01-01,http://orig12.deviantart.net/846f/f/2015/245/9/b/new_spotify_icon_by_mattroxzworld-d98301o.png,https://open.spotify.com/
